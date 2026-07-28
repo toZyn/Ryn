@@ -1,0 +1,51 @@
+{"question": "hola", "answer": "¡Hola! Soy Ryn, tu asistente virtual. ¿En qué puedo ayudarte?"}
+{"question": "buenos dias", "answer": "¡Buenos días! Soy Ryn, ¿cómo estás?"}
+{"question": "buenas tardes", "answer": "¡Buenas tardes! Espero que estés teniendo un gran día. ¿En qué puedo ayudarte?"}
+{"question": "como estas", "answer": "Estoy funcionando al 100%, ¡gracias por preguntar! ¿Cómo puedo ayudarte hoy?"}
+{"question": "quien eres", "answer": "Soy Ryn, un chatbot creado para responder tus preguntas de manera inteligente y rápida."}
+{"question": "que puedes hacer", "answer": "Puedo responder preguntas sobre diversos temas, ayudarte con información y mantener conversaciones. Cuanto mayor sea la calidad de búsqueda, mejor será mi respuesta."}
+{"question": "gracias", "answer": "¡De nada! Siempre estoy aquí para ayudarte. Si necesitas algo más, solo dímelo."}
+{"question": "adios", "answer": "¡Hasta luego! Fue un placer ayudarte. Vuelve cuando quieras."}
+{"question": "que es javascript", "answer": "JavaScript es un lenguaje de programación interpretado, orientado a objetos, utilizado principalmente en el desarrollo web para crear páginas interactivas y dinámicas."}
+{"question": "que es nodejs", "answer": "Node.js es un entorno de ejecución para JavaScript del lado del servidor, basado en el motor V8 de Chrome. Permite construir aplicaciones de red escalables y rápidas."}
+{"question": "que es express", "answer": "Express.js es un framework minimalista y flexible para Node.js que facilita la creación de aplicaciones web y APIs mediante un sistema de middleware y enrutamiento."}
+{"question": "que es una api", "answer": "Una API (Application Programming Interface) es un conjunto de reglas y protocolos que permite que diferentes aplicaciones de software se comuniquen entre sí."}
+{"question": "que es ia", "answer": "La inteligencia artificial es una rama de la informática que busca crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana, como el aprendizaje, el razonamiento y la toma de decisiones."}
+{"question": "que es machine learning", "answer": "El machine learning o aprendizaje automático es una subrama de la IA que permite a los sistemas aprender y mejorar a partir de la experiencia sin ser programados explícitamente."}
+{"question": "que es python", "answer": "Python es un lenguaje de programación de alto nivel, interpretado y multiparadigma, conocido por su sintaxis clara y legible. Es ampliamente usado en ciencia de datos, IA y desarrollo web."}
+{"question": "que es una base de datos", "answer": "Una base de datos es un conjunto de datos estructurados y almacenados electrónicamente, gestionados por un sistema de gestión de bases de datos (DBMS) que permite su acceso, manipulación y actualización."}
+{"question": "que es sql", "answer": "SQL (Structured Query Language) es un lenguaje estándar utilizado para gestionar y manipular bases de datos relacionales, permitiendo consultas, inserciones, actualizaciones y eliminaciones de datos."}
+{"question": "que es html", "answer": "HTML (HyperText Markup Language) es el lenguaje estándar para crear páginas web. Define la estructura y el contenido de una página mediante etiquetas y elementos."}
+{"question": "que es css", "answer": "CSS (Cascading Style Sheets) es un lenguaje de diseño gráfico utilizado para definir la presentación y el estilo visual de documentos HTML, incluyendo colores, fuentes y disposición."}
+{"question": "que es git", "answer": "Git es un sistema de control de versiones distribuido que permite rastrear cambios en el código fuente durante el desarrollo de software, facilitando la colaboración entre equipos."}
+{"question": "que es docker", "answer": "Docker es una plataforma que permite crear, desplegar y ejecutar aplicaciones en contenedores, proporcionando entornos aislados y portables para el desarrollo y producción."}
+{"question": "que es json", "answer": "JSON (JavaScript Object Notation) es un formato ligero de intercambio de datos, fácil de leer y escribir para humanos, y fácil de parsear para las máquinas. Se basa en pares clave-valor."}
+{"question": "que es un endpoint", "answer": "Un endpoint es una URL específica dentro de una API que permite acceder a un recurso o servicio particular. Cada endpoint realiza una función definida, como obtener o enviar datos."}
+{"question": "capital de españa", "answer": "La capital de España es Madrid, ubicada en el centro del país a orillas del río Manzanares."}
+{"question": "capital de mexico", "answer": "La capital de México es la Ciudad de México, una de las ciudades más grandes y pobladas del mundo."}
+{"question": "capital de argentina", "answer": "La capital de Argentina es Buenos Aires, conocida por su arquitectura europea y su rica vida cultural."}
+{"question": "capital de colombia", "answer": "La capital de Colombia es Bogotá, situada en el altiplano cundiboyacense a más de 2600 metros sobre el nivel del mar."}
+{"question": "capital de chile", "answer": "La capital de Chile es Santiago, ubicada en el valle central del país rodeada por la cordillera de los Andes."}
+{"question": "capital de peru", "answer": "La capital de Perú es Lima, ubicada en la costa central del país a orillas del océano Pacífico."}
+{"question": "que es el cambio climatico", "answer": "El cambio climático se refiere a la variación global del clima de la Tierra debido a causas naturales y principalmente a la actividad humana, como la emisión de gases de efecto invernadero."}
+{"question": "que es la energia renovable", "answer": "Las energías renovables son fuentes de energía limpias e inagotables obtenidas de la naturaleza, como la solar, eólica, hidráulica y geotérmica."}
+{"question": "que es el blockchain", "answer": "Blockchain o cadena de bloques es una tecnología de registro distribuido que permite mantener una base de datos descentralizada y segura, inmutable ante modificaciones no autorizadas."}
+{"question": "que es la nube", "answer": "La nube o cloud computing es un modelo que permite acceder a recursos informáticos (servidores, almacenamiento, aplicaciones) a través de internet bajo demanda, sin gestión directa activa."}
+{"question": "dimelo en ingles", "answer": "Puedo cambiar mi idioma. What would you like to know?"}
+{"question": "de que trata ryn", "answer": "Ryn es un chatbot inteligente que busca la respuesta más similar a tu pregunta usando algoritmos de similitud. Puedes ajustar la calidad de búsqueda entre low, medium y high."}
+{"question": "que significa low quality", "answer": "Con calidad 'low' uso similitud Jaccard (coincidencia de palabras clave). Es muy rápido pero menos preciso. Ideal para respuestas inmediatas."}
+{"question": "que significa medium quality", "answer": "Con calidad 'medium' uso TF-IDF y similitud de cosenos. Es más preciso que low y sigue siendo rápido. Recomendado para uso general."}
+{"question": "que significa high quality", "answer": "Con calidad 'high' combino TF-IDF, bigramas y distancia de edición. Es el modo más preciso pero el más lento. Ideal cuando necesitas la mejor respuesta posible."}
+{"question": "cuantos años tienes", "answer": "Soy un programa, no tengo edad como los humanos. Fui creado recientemente y estoy aprendiendo constantemente."}
+{"question": "que te gusta hacer", "answer": "Me gusta ayudar a las personas respondiendo sus preguntas de la manera más precisa posible. ¡Esa es mi razón de ser!"}
+{"question": "eres inteligente", "answer": "Mi inteligencia depende de los datos con los que fui entrenado y de los algoritmos que uso para encontrar la mejor respuesta. ¡Siempre intento dar lo mejor de mí!"}
+{"question": "cual es el sentido de la vida", "answer": "Esa es una gran pregunta filosófica. Muchos dirían que el sentido de la vida es aquello que cada persona decida darle: felicidad, conocimiento, amor o simplemente vivir el presente."}
+{"question": "que es la programacion", "answer": "La programación es el proceso de diseñar, codificar y mantener instrucciones que una computadora puede ejecutar para realizar tareas específicas. Es la base del software moderno."}
+{"question": "como aprender a programar", "answer": "Para aprender a programar te recomiendo empezar con un lenguaje como Python o JavaScript, practicar diariamente con pequeños proyectos, y utilizar recursos como documentación oficial y comunidades."}
+{"question": "que es un framework", "answer": "Un framework es un conjunto de herramientas, librerías y convenciones que facilitan el desarrollo de software al proporcionar una estructura base y resolver problemas comunes."}
+{"question": "que es un algoritmo", "answer": "Un algoritmo es un conjunto ordenado de instrucciones o pasos definidos para resolver un problema o realizar una tarea específica."}
+{"question": "que significa debuggear", "answer": "Debuggear o depurar es el proceso de identificar, analizar y corregir errores o bugs en el código fuente de un programa."}
+{"question": "que es el backend", "answer": "El backend es la parte de una aplicación web que se ejecuta en el servidor, encargada de la lógica de negocio, procesamiento de datos y comunicación con la base de datos."}
+{"question": "que es el frontend", "answer": "El frontend es la parte visual de una aplicación web con la que el usuario interactúa directamente, incluyendo diseño, layout y comportamiento en el navegador."}
+{"question": "que es un servidor", "answer": "Un servidor es un sistema informático que proporciona servicios, recursos o datos a otros programas o dispositivos llamados clientes, a través de una red."}
+{"question": "que es http", "answer": "HTTP (Hypertext Transfer Protocol) es el protocolo de comunicación utilizado para la transferencia de información en la World Wide Web, permitiendo la comunicación entre clientes y servidores."}
